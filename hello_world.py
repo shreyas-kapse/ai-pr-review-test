@@ -9,6 +9,7 @@ def add(a:int, b:int):
 def mul(a:int,b:int)->int:
     return a*b
 
+# connect to main server
 def connect_to_server(username:str, password:str):
     print("connection to server by using following username and password")
     print("username ", username)
