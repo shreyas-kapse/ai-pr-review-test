@@ -20,7 +20,7 @@ def connect_to_server(username:str, password:str):
     
 username = "admin"
 password  = "welcome@123"
-host = "localhost"
+port = 8080
 
 greet()
 print(add(10,20))
