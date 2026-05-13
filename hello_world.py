@@ -2,7 +2,8 @@
 # hello world function
 def greet():
     print("hello world")
-    
+
+# addition function
 def add(a:int, b:int):
     return a+b
 
