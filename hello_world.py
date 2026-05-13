@@ -1,3 +1,5 @@
+
+# hello world function
 def greet():
     print("hello world")
     
@@ -6,7 +8,6 @@ def add(a:int, b:int):
 
 def mul(a:int,b:int)->int:
     return a*b
-
 
 
 greet()
