@@ -6,6 +6,7 @@ def greet():
 def add(a:int, b:int):
     return a+b
 
+# multiplication function
 def mul(a:int,b:int)->int:
     return a*b
 
