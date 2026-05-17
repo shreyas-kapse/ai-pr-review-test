@@ -18,7 +18,7 @@ def connect_to_server(username:str, password:str):
     print("password ",password)
     return {"success ": True}
 
-# configs    
+# configs      
 username = "admin"
 password  = "welcome@123"
 port = 8080
