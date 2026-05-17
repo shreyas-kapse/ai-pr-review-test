@@ -16,7 +16,7 @@ def connect_to_server(username:str, password:str):
     print("connection to server by using following username and password")
     print("username ", username)
     print("password ",password)
-    return {"success ": True}
+    return {"success ": True} 
 
 # configs      
 username = "admin"
