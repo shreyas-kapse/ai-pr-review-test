@@ -9,7 +9,7 @@ def add(a:int, b:int):
   
 # multiplication method 
 def mul(a:int,b:int)->int:
-    return a*b 
+    return a*b  
   
 # connect to main server
 def connect_to_server(username:str, password:str):
